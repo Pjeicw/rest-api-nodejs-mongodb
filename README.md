@@ -1,32 +1,32 @@
 # rest-api-nodejs-mongodb
 
 #create folder
-mkdir express-api
-cd express-api
+#> mkdir express-api
+#> cd express-api
 
 #create
-npx express-generator
+#> npx express-generator
 
 #add dependency
-npm i
+#> npm i
 
 #run vs-code
-code .
+#> code .
 
 #start 
-SET DEBUG=express-api:* & npm start
+#> SET DEBUG=express-api:* & npm start
 
-#run website
-http://localhost:3000/
+#open website
+#> http://localhost:3000/
 
 #new termimal add library mongodb
-npm i mongoose
+#> npm i mongoose
 
 
 
 #Connect to MongoDB
-https://account.mongodb.com/account/login
+#> https://account.mongodb.com/account/login
 
 
 #start 
-set DEBUG=express-api:* & npm start
+#> set DEBUG=express-api:* & npm start
